@@ -1,0 +1,29 @@
+#myCarousel {
+    background-color: red;
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: crimson;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: darkred;
+}
+#welcome {
+    color: darkred;
+    border-color: yellow;
+    font-family: cursive;
+    font-size: 50px;
+}
